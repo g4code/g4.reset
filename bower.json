@@ -1,0 +1,17 @@
+{
+  "name": "g4.reset ",
+  "homepage": "https://github.com/g4code/g4.reset.git",
+  "authors": [
+    "Drasko Gomboc <drasko.gomboc@gmail.com>"
+  ],
+  "description": "reset all to default value",
+  "main": "src/_reset.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "reset",
+    "reset stylesheet"
+  ],
+  "license": "MIT"
+}
