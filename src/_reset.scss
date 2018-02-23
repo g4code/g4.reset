@@ -101,10 +101,13 @@ textarea:focus {
 
 /*fix iphone*/
 textarea,
+input,
 input[type="text"],
 input[type="button"],
 input[type="submit"] {
-     -webkit-appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 /*remove all dotted outlines from project*/
