@@ -1,6 +1,6 @@
 {
   "name": "g4.reset",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "CSS Reset",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
   "author": "G4 Code <office@g4code.com>",
   "maintainers": [
     "Drasko Gomboc <drasko.gomboc@gmail.com>",
-    "Zeljko Simic <zeljkosbgd@gmail.com>"
+    "Zeljko Simic <zeljkosbgd@gmail.com>",
+    "Nemanja Mirkov <mirkovnemanja@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
